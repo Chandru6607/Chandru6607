@@ -1,7 +1,7 @@
 ![MasterHead](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)
 <h1 align="center">Hi 👋, I'm CHANDRU.S</h1>
 <h3 align="center">A passionate AI - ML DEVELOPER</h3>
-<img align="centre" alt="Coding" width="400" src="https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?fit=1170%2C390&ssl=1">
+<img align="centre" alt="Coding" width="800" src="https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?fit=1170%2C390&ssl=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandru6607&label=Profile%20views&color=0e75b6&style=flat" alt="chandru6607" /> </p>
 
