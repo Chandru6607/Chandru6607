@@ -1,4 +1,4 @@
-![MasterHead](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)
+![MasterHead](https://camo.githubusercontent.com/9bf774bb4c2bcec49c11340d1d2ddd4401b685bafa45e5404237c89fd36a4c12/68747470733a2f2f7777772e63617265657267756964652e636f6d2f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f67697068792d372e676966)
 <h1 align="center">Hi 👋, I'm CHANDRU.S</h1>
 <h3 align="center">A passionate AI - ML DEVELOPER</h3>
 <img align="centre" alt="Coding" width="800" src="https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?fit=1170%2C390&ssl=1">
